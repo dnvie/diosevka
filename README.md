@@ -1,4 +1,4 @@
-Customized version of Iosevka, my monospaced font of choice.
+Customized version of [Iosevka](https://typeof.net/Iosevka/), my monospaced font of choice.
 
 Recommended usage:
 - `Diosevka` for terminal use
@@ -10,4 +10,4 @@ Recommended usage:
 #### Diosevka Extended:
 ![diosevka_extended](https://i.imgur.com/pg5Vua2.png)
 
-To create your own version of Iosevka, visit https://typeof.net/Iosevka/
+To create your own version of Iosevka, visit https://typeof.net/Iosevka/.
